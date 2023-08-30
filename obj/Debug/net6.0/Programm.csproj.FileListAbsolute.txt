@@ -1,0 +1,15 @@
+C:\Users\Nikulin\Desktop\learnResult\Programm\bin\Debug\net6.0\Programm.exe
+C:\Users\Nikulin\Desktop\learnResult\Programm\bin\Debug\net6.0\Programm.deps.json
+C:\Users\Nikulin\Desktop\learnResult\Programm\bin\Debug\net6.0\Programm.runtimeconfig.json
+C:\Users\Nikulin\Desktop\learnResult\Programm\bin\Debug\net6.0\Programm.dll
+C:\Users\Nikulin\Desktop\learnResult\Programm\bin\Debug\net6.0\Programm.pdb
+C:\Users\Nikulin\Desktop\learnResult\Programm\obj\Debug\net6.0\Programm.csproj.AssemblyReference.cache
+C:\Users\Nikulin\Desktop\learnResult\Programm\obj\Debug\net6.0\Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikulin\Desktop\learnResult\Programm\obj\Debug\net6.0\Programm.AssemblyInfoInputs.cache
+C:\Users\Nikulin\Desktop\learnResult\Programm\obj\Debug\net6.0\Programm.AssemblyInfo.cs
+C:\Users\Nikulin\Desktop\learnResult\Programm\obj\Debug\net6.0\Programm.csproj.CoreCompileInputs.cache
+C:\Users\Nikulin\Desktop\learnResult\Programm\obj\Debug\net6.0\Programm.dll
+C:\Users\Nikulin\Desktop\learnResult\Programm\obj\Debug\net6.0\refint\Programm.dll
+C:\Users\Nikulin\Desktop\learnResult\Programm\obj\Debug\net6.0\Programm.pdb
+C:\Users\Nikulin\Desktop\learnResult\Programm\obj\Debug\net6.0\Programm.genruntimeconfig.cache
+C:\Users\Nikulin\Desktop\learnResult\Programm\obj\Debug\net6.0\ref\Programm.dll
