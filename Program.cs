@@ -1,17 +1,30 @@
 ﻿Console.Clear();
 
-string[] library = {"Лисица", "Кот", "Тигр", "Кит", "34"};
+string[] library = {"Лисица", "Кот", "Тигр", "Кит", "34", "Да"};
 
-string[] findSymbols (string[] words, int quantity)
+string[] findSymbols (string[] words, int quantity)     // Функция, которой даешь массив и цифру, 
+                                                        // чтобы отсортировать по кол-ву символов.
 {
-    string[] selectionResult = new string[words.Length];
+    int count = 0;
     int length = words.Length;
+
+    for (int j = 0; j < length; j++)                    //Посчитаем количество слов по условию, чтобы создать соразмерный массив.
+    {
+         if (words[j].Length <= quantity)
+        {
+            count++;
+        }
+    }
+
+    string[] selectionResult = new string[count];
+    count = 0;                                           //Снова обнулим, чтобы далее использовать под новый массив.
 
     for (int i = 0; i < length; i++)
     {
         if (words[i].Length <= quantity)
         {
-            selectionResult[i] = words[i];
+            selectionResult[count] = words[i];
+            count++;
         }
     }
 
@@ -24,7 +37,7 @@ void showList(string[] list)
 
     for (int i = 0; i < length; i++)
     {
-        Console.Write($"{list[i]}, ");
+        Console.Write($"{list[i]}; ");
     }
 }
 
